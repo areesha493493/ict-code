@@ -1,0 +1,19 @@
+.header{
+    border-color: cadetblue;
+    display: inline-block;
+}
+.img.b{
+    border-color: brown;
+}
+.ul.tag{
+    border-color: darkgoldenrod;
+    list-style: none;
+}
+.cartoon.b{
+    border-color: blue;
+    width: 10px;
+    height: 20px;
+}
+.img2.b{
+    z-index: -1;
+}

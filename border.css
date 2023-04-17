@@ -1,0 +1,33 @@
+
+.headings{ 
+    margin: 10px 15px;
+    padding: 20px 25px;
+    background-color: solid rgb(218, 196, 218);
+    border-color: solid purple;
+    border-radius: 5px;
+    box-sizing: border-box ;
+
+}
+.paragraphs{
+    margin: 20px 25px;
+    padding: 25px 30px;
+    background-color: solid rgb(240, 175, 186);
+    border-color: solid palevioletred;
+    border-radius: 6px;
+}
+.photos{
+    margin: 20px 25px;
+    padding: 25px 30px;
+    background-color: solid rgb(199, 180, 183);
+    border-color: solid rgb(92, 38, 92) ;
+    border-radius: 6px;
+
+}
+
+.formula{
+    margin: 20px 25px;
+    padding: 25px 30px;
+    background-color: solid rgb(107, 102, 105);
+    border-color: solid rgb(54, 28, 36);
+    border-radius: 6px;
+}
